@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Inicio
+title: Emi owo 
 nav_order: 1
 ---
 
-# Plantilla de documentación con Just the Docs
+# Todo sobre mi 
 
 Este repositorio está diseñado para entender como utilizar la plantilla de repositorio que utiliza **"Just the docs"** de Jekyll y el lenguaje **"Markdown"**:
 
