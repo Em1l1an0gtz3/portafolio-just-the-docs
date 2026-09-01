@@ -4,66 +4,69 @@ title: Emiliano Gutiérrez
 nav_order: 1
 ---
 
-# Todo sobre mí
+# Hola, soy Emiliano 👋
 
-Hola, soy **Emiliano Gutiérrez**. Actualmente soy estudiante de preparatoria y en este espacio quiero contar un poco sobre mí, mis gustos y las cosas que me interesan.
+Bienvenido a mi portafolio.
 
-Me gusta aprender cosas nuevas y, cuando algo me llama la atención, trato de investigar y entender cómo funciona. También me gusta hacer proyectos en los que pueda poner en práctica lo que voy aprendiendo.
+Soy estudiante de preparatoria y aquí quiero compartir un poco sobre mí, las cosas que me gustan y algunos de los trabajos que he hecho durante mis estudios.
+
+## Sobre mí
+
+Soy una persona a la que le gusta aprender haciendo las cosas. Cuando encuentro algo que me interesa, normalmente intento probarlo por mi cuenta y entender cómo funciona.
+
+Me gustan mucho los temas relacionados con la **tecnología y la ingeniería**, porque siempre me ha llamado la atención saber cómo funcionan las cosas y cómo se pueden crear o mejorar.
 
 ## Mis gustos
 
 ### 🏎️ Fórmula 1
 
-Me gusta mucho la **Fórmula 1**. Me llama la atención la velocidad, la competencia y toda la tecnología que hay detrás de los autos. También disfruto ver las carreras y seguir lo que pasa con los diferentes equipos y pilotos.
+Me gusta ver la Fórmula 1, principalmente por la competencia y la tecnología de los autos. También me gusta estar al pendiente de las carreras y de lo que pasa con los equipos y pilotos.
 
 ### 🏌️ Golf
 
-El **golf** es otro de mis gustos. Me gusta porque es un deporte que necesita mucha concentración y paciencia. Además, es una actividad que disfruto para pasar el tiempo.
+El golf es uno de los deportes que más me gusta. Lo disfruto porque es un deporte tranquilo, pero al mismo tiempo necesitas concentrarte y tener paciencia.
 
 ### 🧱 LEGO
 
-También me gustan los **LEGO**. Me gusta armar diferentes modelos y ver cómo todas las piezas terminan formando algo completo. Creo que es una buena forma de usar la creatividad y entretenerse al mismo tiempo.
+Me gustan los LEGO porque puedo pasar tiempo armando diferentes cosas. También me gusta la parte de construir y ver cómo poco a poco se va formando el modelo.
 
-## Lo que me interesa
+### 💻 Tecnología
 
-Uno de los temas que más me interesan es la **tecnología**. Me gusta aprender sobre computadoras, programación y páginas web. Por eso también he empezado a utilizar herramientas como GitHub y Linux.
+Me interesa la computación, la programación y la creación de páginas web. Últimamente también he estado aprendiendo a utilizar **GitHub y Linux**.
 
-La **ingeniería** también es algo que me interesa bastante, principalmente la mecánica, electrónica y mecatrónica. Me gusta entender cómo funcionan las cosas y pensar en cómo podrían hacerse o mejorarse.
+## Lo que estudio
 
-## Mis estudios
-
-Durante la preparatoria he realizado diferentes actividades y proyectos de varias materias. Algunos de los temas que más me han llamado la atención son:
+Durante la preparatoria he trabajado en proyectos de diferentes materias. Algunos de los temas que más me han gustado son:
 
 - Mecánica y diseño de piezas.
 - Electrónica y electricidad.
 - Programación y páginas web.
-- Matemáticas y geometría.
+- Matemáticas.
+- Física.
 - Proyectos de medio ambiente.
-- Emprendimiento.
 
-Estos trabajos me han ayudado a aprender cosas nuevas y también a resolver problemas de diferentes maneras.
+## Lo que quiero estudiar
 
-## Mis planes a futuro
+Después de terminar la preparatoria quiero estudiar una carrera relacionada con la **ingeniería**. Me interesan especialmente áreas como la mecánica, electrónica y mecatrónica.
 
-Después de terminar la preparatoria quiero continuar estudiando una carrera relacionada con la **ingeniería y la tecnología**. Todavía estoy conociendo diferentes opciones, pero me gustaría elegir una carrera que me permita seguir aprendiendo y trabajar en proyectos que realmente me interesen.
+Todavía estoy considerando diferentes opciones para la universidad, pero quiero estudiar algo que me permita trabajar con tecnología y hacer proyectos.
 
-A largo plazo me gustaría tener un trabajo en el que pueda aplicar mis conocimientos, seguir aprendiendo y desarrollar mis propias ideas.
+## Para este portafolio
 
-## Algunas cosas sobre mí
+En las siguientes páginas voy a ir agregando algunos de mis trabajos, proyectos y actividades.
 
-| Tema | Respuesta |
-|:---|:---|
-| Deporte que me gusta | Fórmula 1 y golf |
-| Pasatiempo | LEGO |
-| Me interesa | Tecnología e ingeniería |
-| Me gusta aprender sobre | Computación y programación |
-| Actualmente | Estudiante de preparatoria |
-| Mi objetivo | Continuar estudiando una carrera de ingeniería |
+La idea es que este sitio me sirva para guardar lo que voy haciendo durante mis estudios y también para mostrar cómo voy aprendiendo con el tiempo.
 
-## Mi portafolio
+---
 
-En las demás páginas de este sitio voy a ir colocando algunos de los trabajos y proyectos que he realizado durante mi etapa de estudiante.
+### Un poco más sobre mí
 
-La idea es que este portafolio vaya creciendo conforme aprenda cosas nuevas y haga más proyectos.
+| | |
+|:--|:--|
+| **Me gusta** | Fórmula 1, golf y LEGO |
+| **Me interesa** | Tecnología e ingeniería |
+| **Estoy aprendiendo** | Programación, Linux y GitHub |
+| **Estoy estudiando** | Preparatoria |
+| **Mi meta** | Estudiar una carrera de ingeniería |
 
-> **Este es un pequeño espacio para mostrar quién soy y lo que voy aprendiendo.**
+> *Este portafolio es parte de mi aprendizaje y lo iré actualizando con nuevos proyectos.*
