@@ -1,4 +1,4 @@
-title: PAGINAS
+title: Reportes semanales
 description: Portafolio personal de Emiliano Gutiérrez
 
 # GitHub Pages
@@ -15,9 +15,7 @@ just_the_docs:
     - "assets/css/custom.css"
   footer_content: ""
 
-search_enabled: true
-search:
-  heading_level: 2
+search_enabled: false
 
 permalink: pretty
 
