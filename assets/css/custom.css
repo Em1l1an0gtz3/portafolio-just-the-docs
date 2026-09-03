@@ -62,6 +62,9 @@ a:focus { outline: 2px solid #a5d6a7; outline-offset: 2px; }
   text-decoration-color: #ffffff;
 }
 
+/* Ocultar el texto predeterminado "This site uses Just the Docs..." */
+.site-footer { display: none !important; }
+
 /* === MENÚ MÓVIL === */
 #menu-toggle + label,
 .menu-label,
@@ -152,7 +155,6 @@ a:focus { outline: 2px solid #a5d6a7; outline-offset: 2px; }
 .side-bar .nav-list > .nav-list-item + .nav-list-item { margin-top: .15rem; }
 
 /* === FOOTER PROPIO === */
-footer.site-footer { display: none !important; }
 .custom-footer {
   margin-top: 3rem;
   padding-top: 1rem;
@@ -218,22 +220,4 @@ video { max-width: 100%; height: auto; }
   width: 100%;
   height: 100%;
   border: 0;
-}
-
-@media (max-width: 66rem) {
-  footer.site-footer {
-    background: #ffffff !important;
-    opacity: 1 !important;
-  }
-  footer.site-footer,
-  footer.site-footer p,
-  footer.site-footer span,
-  footer.site-footer *:not(a) {
-    color: #495057 !important;
-    text-shadow: none !important;
-  }
-  footer.site-footer a,
-  footer.site-footer a:visited {
-    color: var(--green) !important;
-  }
 }
