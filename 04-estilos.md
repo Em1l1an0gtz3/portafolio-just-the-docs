@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Semana 4
+title: Arduino 2 y 3
 nav_order: 5
 ---
 
-# Semana 4
+# Arduino 2 y 3
 
