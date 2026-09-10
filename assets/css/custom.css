@@ -221,3 +221,34 @@ video { max-width: 100%; height: auto; }
   height: 100%;
   border: 0;
 }
+
+/* === TARJETAS DE VIDEOS === */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.video-card {
+  background: #ffffff;
+  border: 1px solid #d7e6d8;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,.08);
+}
+
+.video-card__title {
+  color: var(--green-dark);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: .8rem;
+}
+
+.video-card .responsive-embed {
+  border-radius: 10px;
+}
+
+@media (max-width: 700px) {
+  .video-grid { grid-template-columns: 1fr; }
+}
