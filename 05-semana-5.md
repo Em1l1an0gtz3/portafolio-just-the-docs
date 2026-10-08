@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brazo Parte 1
-nav_order: 6
+nav_order: 7
 ---
 
 # Brazo Part 1
