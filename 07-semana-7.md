@@ -6,7 +6,7 @@ nav_order: 8
 
 # Semana 7
 
-## 🎮 Pac-Man Shooter 2D
+## 🎮 SPRINGTRAP SHOOTER 2D
 
 Durante esta semana desarrollé un videojuego en **HTML, CSS y JavaScript** utilizando el elemento **Canvas** para crear una experiencia de disparos en 2D.
 
@@ -35,6 +35,6 @@ El proyecto consiste en controlar a Pac-Man, moverse por el escenario, apuntar c
 
 ## 🕹️ Jugar
 
-<iframe src="/portafolio-just-the-docs/assets/juegos/pacman-shooter/index.html" width="100%" height="700" style="border:2px solid #3030a0; border-radius:10px;" title="Pac-Man Shooter 2D"></iframe>
+<iframe src="/portafolio-just-the-docs/assets/juegos/pacman-shooter/index.html" width="100%" height="700" style="border:2px solid #3030a0; border-radius:10px;" title="SPRINGTRAP SHOOTER 2D"></iframe>
 
 [🎮 Abrir el videojuego en una ventana nueva](/portafolio-just-the-docs/assets/juegos/pacman-shooter/index.html)
