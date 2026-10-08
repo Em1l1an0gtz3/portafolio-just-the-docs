@@ -65,7 +65,7 @@ La idea es que este sitio me sirva para guardar lo que voy haciendo durante mis 
 | **Me gusta** | Fórmula 1, golf y LEGO |
 | **Me interesa** | Tecnología e ingeniería |
 | **Estoy aprendiendo** | Programación, Linux y GitHub |
-| **Estoy estudiando** | Preparatoria |
-| **Mi meta** | Estudiar una carrera de ingeniería |
+| **Estoy estudiando** | Universidad |
+| **Mi meta** | Graduarme de Ing.Mecatronica |
 
 > *Este portafolio es parte de mi aprendizaje y lo iré actualizando con nuevos proyectos.*
