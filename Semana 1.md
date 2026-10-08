@@ -56,10 +56,67 @@ La organización permite que el sitio sea más fácil de mantener y que las imá
 
 Las páginas del portafolio se escriben utilizando Markdown. Esto permite crear títulos, subtítulos, listas, enlaces, imágenes y otros elementos sin tener que escribir todo el HTML manualmente.
 
-Un ejemplo sencillo de estructura es:
+## 5. Personalizar el sitio
 
-```yaml
+También se modificó la configuración de Just the Docs para adaptar el nombre, la descripción, los enlaces y la apariencia general del portafolio.
+
+[Configuración del proyecto](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/config.png)
+
+En mi caso, personalicé el sitio para que la navegación y la identidad visual correspondan a mi propio portafolio académico.
+
 ---
+
+## 6. Guardar los cambios con un commit
+
+Después de realizar modificaciones, los cambios se guardan mediante un **commit**. El commit permite registrar qué se modificó y mantener un historial del proyecto.
+
+[Commit de los cambios](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/commit.png)
+
+**Aprendizaje:** un commit funciona como un punto de referencia del proyecto. Esto permite saber cómo ha evolucionado el portafolio y regresar a versiones anteriores si fuera necesario.
+
+---
+
+## 7. Configurar GitHub Pages
+
+El siguiente paso fue configurar GitHub Pages para que el contenido del repositorio pudiera convertirse en un sitio web público.
+
+[Configuración de GitHub Pages](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/pages.png)
+
+GitHub Pages toma los archivos del repositorio y genera la versión web del proyecto.
+
+---
+
+## 8. Publicar y comprobar el sitio
+
+Finalmente, se revisó que el sitio estuviera publicado correctamente y que las páginas, enlaces e imágenes funcionaran.
+
+[Sitio web publicado](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/website.png)
+
+La publicación permite compartir el portafolio mediante una liga web, sin necesidad de ejecutar el proyecto localmente.
+
+---
+
+## 9. Resultado final
+
+El resultado es un portafolio web personal que irá creciendo durante el curso. La idea es continuar agregando nuevas semanas, evidencias y proyectos conforme avance mi formación.
+
+### Lo que aprendí en esta semana
+
+- Crear y organizar un repositorio.
+- Utilizar archivos Markdown.
+- Comprender la estructura básica de un sitio con Just the Docs.
+- Organizar imágenes dentro del proyecto.
+- Registrar cambios mediante commits.
+- Configurar y publicar un sitio con GitHub Pages.
+- Documentar un proceso técnico mediante evidencias visuales.
+
+---
+
+## Conclusión
+
+La creación de este portafolio fue una primera aproximación al trabajo con herramientas utilizadas para documentar y publicar proyectos tecnológicos. Más allá de obtener una página funcionando, el proceso me ayudó a entender la relación entre repositorios, archivos, documentación, control de cambios y publicación web.
+
+
 layout: default
 title: Mi página
 nav_order: 1
