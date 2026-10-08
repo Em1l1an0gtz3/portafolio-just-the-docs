@@ -6,30 +6,6 @@ nav_order: 4
 
 # Arduino 1
 
-<div class="video-grid">
-  <div class="video-card">
-    <div class="video-card__title">Arduino 1.1</div>
-    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/JlZNXYb4KC8" title="Arduino 1.1" allowfullscreen></iframe></div>
-  </div>
-
-  <div class="video-card">
-    <div class="video-card__title">Arduino 1.2</div>
-    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/znURGr7MjGQ" title="Arduino 1.2" allowfullscreen></iframe></div>
-  </div>
-
-  <div class="video-card">
-    <div class="video-card__title">Arduino 1.3</div>
-    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/aaqSQll9FBs" title="Arduino 1.3" allowfullscreen></iframe></div>
-  </div>
-
-  <div class="video-card">
-    <div class="video-card__title">Arduino 1.4</div>
-    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/5FkotExvTLM" title="Arduino 1.4" allowfullscreen></iframe></div>
-  </div>
-</div>
-
----
-
 # Semana 2: Arduinos y circuitos
 
 Durante esta semana trabajé con **Arduino UNO y circuitos electrónicos**, realizando diferentes prácticas para conocer las funciones básicas del microcontrolador, las conexiones de los componentes y la programación mediante Arduino IDE.
@@ -87,3 +63,30 @@ Fuente utilizada para proporcionar alimentación eléctrica a los componentes cu
 ## Push button (NO)
 
 Botón normalmente abierto utilizado como entrada digital para enviar una señal al Arduino al ser presionado.
+
+
+---
+
+## Videos de Arduino 1
+
+<div class="video-grid">
+  <div class="video-card">
+    <div class="video-card__title">Arduino 1.1</div>
+    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/JlZNXYb4KC8" title="Arduino 1.1" allowfullscreen></iframe></div>
+  </div>
+
+  <div class="video-card">
+    <div class="video-card__title">Arduino 1.2</div>
+    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/znURGr7MjGQ" title="Arduino 1.2" allowfullscreen></iframe></div>
+  </div>
+
+  <div class="video-card">
+    <div class="video-card__title">Arduino 1.3</div>
+    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/aaqSQll9FBs" title="Arduino 1.3" allowfullscreen></iframe></div>
+  </div>
+
+  <div class="video-card">
+    <div class="video-card__title">Arduino 1.4</div>
+    <div class="responsive-embed"><iframe src="https://www.youtube.com/embed/5FkotExvTLM" title="Arduino 1.4" allowfullscreen></iframe></div>
+  </div>
+</div>
