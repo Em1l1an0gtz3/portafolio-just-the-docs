@@ -8,7 +8,7 @@ nav_order: 1
 
 Bienvenido a mi portafolio.
 
-Soy estudiante de preparatoria y aquí quiero compartir un poco sobre mí, las cosas que me gustan y algunos de los trabajos que he hecho durante mis estudios.
+Soy estudiante de Universidad y aquí quiero compartir un poco sobre mí, las cosas que me gustan y algunos de los trabajos que he hecho durante mis estudios.
 
 ## Sobre mí
 
@@ -34,7 +34,7 @@ Me gustan los LEGO porque puedo pasar tiempo armando diferentes cosas. También 
 
 Me interesa la computación, la programación y la creación de páginas web. Últimamente también he estado aprendiendo a utilizar **GitHub y Linux**.
 
-## Lo que estudio
+
 
 Durante la preparatoria he trabajado en proyectos de diferentes materias. Algunos de los temas que más me han gustado son:
 
@@ -45,11 +45,10 @@ Durante la preparatoria he trabajado en proyectos de diferentes materias. Alguno
 - Física.
 - Proyectos de medio ambiente.
 
-## Lo que quiero estudiar
+## Lo que estoy estudiando
 
 Después de terminar la preparatoria quiero estudiar una carrera relacionada con la **ingeniería**. Me interesan especialmente áreas como la mecánica, electrónica y mecatrónica.
 
-Todavía estoy considerando diferentes opciones para la universidad, pero quiero estudiar algo que me permita trabajar con tecnología y hacer proyectos.
 
 ## Para este portafolio
 
