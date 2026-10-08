@@ -4,7 +4,7 @@ title: Brazo Parte 1
 nav_order: 6
 ---
 
-# Semana 5
+# Brazo Part 1
 
 Esta sección está preparada para documentar la actividad correspondiente a la Semana 5.
 
