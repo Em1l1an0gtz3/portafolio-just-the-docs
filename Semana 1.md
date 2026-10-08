@@ -24,8 +24,6 @@ El proceso se puede resumir en cuatro etapas:
 
 Primero se creó el repositorio que contiene todos los archivos del portafolio. El repositorio funciona como el espacio principal donde se guarda y administra el proyecto.
 
-[Creación del repositorio](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/new.png)
-
 **¿Qué aprendí?**
 
 Aprendí que un repositorio permite mantener organizado el código, los documentos y las evidencias de un proyecto, además de conservar el historial de cambios.
@@ -36,17 +34,11 @@ Aprendí que un repositorio permite mantener organizado el código, los document
 
 Después revisé los archivos del proyecto y utilicé el entorno de trabajo para modificar la estructura y el contenido del sitio.
 
-[Repositorio en GitHub](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/github.png)
-
-[Entorno de trabajo](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/codespace.png)
-
 ---
 
 ## 3. Organizar los archivos
 
 Una parte importante fue entender dónde colocar cada tipo de archivo. En el proyecto se utilizan páginas Markdown para el contenido y carpetas específicas para imágenes, videos y otros recursos.
-
-[Archivos del proyecto](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/files.png)
 
 La organización permite que el sitio sea más fácil de mantener y que las imágenes puedan utilizarse dentro de las páginas mediante sus rutas correspondientes.
 
@@ -60,8 +52,6 @@ Las páginas del portafolio se escriben utilizando Markdown. Esto permite crear 
 
 También se modificó la configuración de Just the Docs para adaptar el nombre, la descripción, los enlaces y la apariencia general del portafolio.
 
-[Configuración del proyecto](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/config.png)
-
 En mi caso, personalicé el sitio para que la navegación y la identidad visual correspondan a mi propio portafolio académico.
 
 ---
@@ -69,8 +59,6 @@ En mi caso, personalicé el sitio para que la navegación y la identidad visual 
 ## 6. Guardar los cambios con un commit
 
 Después de realizar modificaciones, los cambios se guardan mediante un **commit**. El commit permite registrar qué se modificó y mantener un historial del proyecto.
-
-[Commit de los cambios](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/commit.png)
 
 **Aprendizaje:** un commit funciona como un punto de referencia del proyecto. Esto permite saber cómo ha evolucionado el portafolio y regresar a versiones anteriores si fuera necesario.
 
@@ -80,8 +68,6 @@ Después de realizar modificaciones, los cambios se guardan mediante un **commit
 
 El siguiente paso fue configurar GitHub Pages para que el contenido del repositorio pudiera convertirse en un sitio web público.
 
-[Configuración de GitHub Pages](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/pages.png)
-
 GitHub Pages toma los archivos del repositorio y genera la versión web del proyecto.
 
 ---
@@ -89,8 +75,6 @@ GitHub Pages toma los archivos del repositorio y genera la versión web del proy
 ## 8. Publicar y comprobar el sitio
 
 Finalmente, se revisó que el sitio estuviera publicado correctamente y que las páginas, enlaces e imágenes funcionaran.
-
-[Sitio web publicado](https://fernxndxro.github.io/portafolio-just-the-docs/assets/img/01-publicar/website.png)
 
 La publicación permite compartir el portafolio mediante una liga web, sin necesidad de ejecutar el proyecto localmente.
 
