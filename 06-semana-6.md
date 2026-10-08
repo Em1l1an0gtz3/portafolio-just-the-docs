@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semana 6
+title: Brazo Parte 2
 nav_order: 7
 ---
 
