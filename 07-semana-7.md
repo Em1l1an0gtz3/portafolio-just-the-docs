@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Semana 7
+title: Videojuego con IA
 nav_order: 8
 ---
 
-# Semana 7
+# Videojuego con IA
 
 ## 🎮 SPRINGTRAP SHOOTER 2D
 
