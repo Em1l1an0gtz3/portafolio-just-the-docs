@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Imprecion 3D
+title: Impresión
 nav_order: 9
 ---
 
-# Imprecion 3D
+# Impresión
 
 Esta sección está preparada para documentar la actividad correspondiente a la Semana 8.
 
