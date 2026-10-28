@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Brazo Parte 1
+title: Brazo robotico
 nav_order: 7
 ---
 
-# Brazo Parte 1
+# Brazo robotico
 
 En este proyecto de medio semestre, realizado en pareja, diseñamos un brazo robot de **tres grados de libertad y una pinza**. El diseño se preparó para fabricar la estructura con corte láser en MDF de **3 mm**. Para el proyecto se utilizaron cuatro servomotores SG90, dentro del rango de cuatro a seis motores indicado por el profesor.
 
