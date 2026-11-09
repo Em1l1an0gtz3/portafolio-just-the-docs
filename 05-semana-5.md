@@ -23,19 +23,10 @@ Modelamos las piezas del brazo y las acomodamos en el programa de diseño para p
 
 ## Vistas del diseño
 
-[Modelo CAD del brazo robot, vista P](https://fernxndxro.github.io/portafolio-just-the-docs/assets/videos/P.jpeg)
-
-[Modelo CAD del brazo robot, vista D](https://fernxndxro.github.io/portafolio-just-the-docs/assets/videos/D.jpeg)
-
-[Modelo CAD del brazo robot, vista S](https://fernxndxro.github.io/portafolio-just-the-docs/assets/videos/S.jpeg)
 
 ## Corte láser y brazo ensamblado
 
-La primera imagen muestra el acomodo de las piezas para el corte láser. La segunda muestra el brazo robot ensamblado con sus servomotores y Arduino.
 
-[Piezas del brazo acomodadas para corte láser](https://fernxndxro.github.io/portafolio-just-the-docs/assets/images/corte-laser-piezas.jpg)
-
-[Brazo robot ensamblado con servomotores y Arduino](https://fernxndxro.github.io/portafolio-just-the-docs/assets/images/brazo-robot-ensamblado.jpg)
 
 ## Fabricación
 
