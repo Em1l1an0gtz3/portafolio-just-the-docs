@@ -81,14 +81,6 @@ Para esta figura utilicé **MakerLab de MakerWorld**. Cargué una imagen de Dart
 
 Preparé el modelo para imprimirlo en una **Creality CR-10 SE**, utilizando **soportes automáticos**. El límite indicado para esta figura fue de **5 × 5 cm**.
 
-| Dato | Información |
-| --- | --- |
-| Dimensiones finales | Aproximadamente 5 × 5 × 5 cm |
-| Material | PLA blanco |
-| Altura de capa | 0.20 mm |
-| Relleno | 15 % |
-| Soportes | Automáticos |
-| Tiempo de impresión | 3 horas |
 
 
 Después de imprimir se retiraron los soportes para revisar el acabado de la figura.
@@ -99,15 +91,13 @@ Después de imprimir se retiraron los soportes para revisar el acabado de la fig
 
 ## 4. Resultados finales
 
-### Fidget toys
+### F1
 
 
-### Darth Vader
+### Marcianos
 
 
----
 
-## 5. Videos
 
 
 ---
